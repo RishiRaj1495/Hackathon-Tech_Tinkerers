@@ -1,4 +1,4 @@
-# ReConnect: Your Holistic Digital Wellness Solution
+<h1 style="color:blue; font-weight:bold;">ReConnect: Your Holistic Digital Wellness Solution</h1>
 
 ## Introduction
 
@@ -20,8 +20,10 @@ ReConnect provides a forward-thinking ecosystem tailored for digital-age wellnes
 
 ## Team
 
-*   Rishi Raj 
-*   Brotodeep Pal
-*   Abhilash Singh
-*   Kajal Pareek
-*   Swastik Sinha
+<ul>
+  <li><span style="color:blue;">Rishi Raj (Me)</span></li>
+  <li><span style="color:blue;">Brotodeep Pal</span></li>
+  <li><span style="color:blue;">Kajal Pareek</span></li>
+  <li><span style="color:blue;">Abhilash Singh</span></li>
+  <li><span style="color:blue;">Swastik Sinha</span></li>
+</ul>
