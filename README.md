@@ -1,8 +1,5 @@
 # ReConnect: Your Holistic Digital Wellness Solution
 
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
 ## Introduction
 
 ReConnect is a holistic digital wellness solution designed to help individuals foster healthier digital habits. Utilizing evidence-based methodologies, AI-driven insights, and a supportive community, it supports users in achieving mental clarity and life balance.
@@ -20,3 +17,11 @@ ReConnect is a holistic digital wellness solution designed to help individuals f
 ## Strategic Summary
 
 ReConnect provides a forward-thinking ecosystem tailored for digital-age wellness. By blending psychological science, intelligent systems, and community interaction, it sets a new standard for mindful living in a hyperconnected world.
+
+## Team
+
+*   Rishi Raj 
+*   Brotodeep Pal
+*   Abhilash Singh
+*   Kajal Pareek
+*   Swastik Sinha
